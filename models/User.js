@@ -1,4 +1,3 @@
-  // models/User.js
 
   const { DataTypes } = require('sequelize');
   const sequelize = require('../config/database'); // Import the Sequelize configuration
